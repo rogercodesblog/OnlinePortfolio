@@ -49,10 +49,10 @@ function GetData(buttonId) {
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <img class="img-fluid mb-3 project-modal-container-certification-image" src="/res/img/certifications/Bachelors.jpg" alt="Bachelor's Degree"/>
+            <img class="img-fluid mb-3 project-modal-container-certification-image" src="/OnlinePortfolio/res/img/certifications/Bachelors.jpg" alt="Bachelor's Degree"/>
              <div>
-              <a target="_blank" href="/res/img/certifications/Bachelors.jpg" class="button-blue"><i class="bi bi-eye me-2"></i>View</a>
-              <a class="button-blue" download="Rogelio Herrera Bachelor's Degree in Computer Science" href="/res/img/certifications/Bachelors.jpg" title="Rogelio Herrera Bachelor's Degree in Computer Science" ><i class="bi bi-download me-2"></i>Download</a>
+              <a target="_blank" href="/OnlinePortfolio/res/img/certifications/Bachelors.jpg" class="button-blue"><i class="bi bi-eye me-2"></i>View</a>
+              <a class="button-blue" download="Rogelio Herrera Bachelor's Degree in Computer Science" href="/OnlinePortfolio/res/img/certifications/Bachelors.jpg" title="Rogelio Herrera Bachelor's Degree in Computer Science" ><i class="bi bi-download me-2"></i>Download</a>
              </div>
           </div>
        </div>
@@ -67,10 +67,10 @@ function GetData(buttonId) {
       <div class="container">
         <div class="row">
           <div class="col-12">
-           <img class="img-fluid mb-3 project-modal-container-certification-image" src="/res/img/certifications/CISCO-IT-Essentials.jpg" alt="CISCO It Fundamentals Certification"/>
+           <img class="img-fluid mb-3 project-modal-container-certification-image" src="/OnlinePortfolio/res/img/certifications/CISCO-IT-Essentials.jpg" alt="CISCO It Fundamentals Certification"/>
             <div>
-             <a target="_blank" href="/res/img/certifications/CISCO-IT-Essentials.jpg" class="button-blue"><i class="bi bi-eye me-2" ></i>View</a>
-             <a class="button-blue" download="Rogelio Herrera IT Fundamentals by CISCO Networking Academy" href="/res/img/certifications/CISCO-IT-Essentials.jpg" title="Rogelio Herrera IT Fundamentals by CISCO Networking Academy" ><i class="bi bi-download me-2"></i>Download</a>
+             <a target="_blank" href="/OnlinePortfolio/res/img/certifications/CISCO-IT-Essentials.jpg" class="button-blue"><i class="bi bi-eye me-2" ></i>View</a>
+             <a class="button-blue" download="Rogelio Herrera IT Fundamentals by CISCO Networking Academy" href="/OnlinePortfolio/res/img/certifications/CISCO-IT-Essentials.jpg" title="Rogelio Herrera IT Fundamentals by CISCO Networking Academy" ><i class="bi bi-download me-2"></i>Download</a>
             </div>
           </div>
        </div>
