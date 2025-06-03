@@ -9,10 +9,7 @@ This site layout goes as follows, starting with a home section with general info
 </p>
 
 <p align="center">
-    <img src="/Screenshots/Home-1.png">
-</p>
-<p align="center">
-    <img src="/Screenshots/Home-2.png">
+    <img src="/Screenshots/home.png">
 </p>
 
 <p align="left">
@@ -20,13 +17,13 @@ Next, we have a section with general info, skills and paperwork, for the design,
 </p>
 
 <p align="center">
-    <img src="/Screenshots/Info-1.png">
+    <img src="/Screenshots/info-1.png">
 </p>
 <p align="center">
-    <img src="/Screenshots/Info-1.png">
+    <img src="/Screenshots/info-2.png">
 </p>
 <p align="center">
-    <img src="/Screenshots/Info-modal.png">
+    <img src="/Screenshots/info-modal.png">
 </p>
 
 <p align="left">
